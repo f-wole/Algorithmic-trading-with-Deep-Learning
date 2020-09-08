@@ -1,0 +1,7 @@
+numpy==1.16.1
+pandas==0.23.3
+matplotlib==2.2.3
+pandas-datareader==0.7.0
+tensorflow==1.13.1
+Keras==2.2.4
+scikit-learn==0.20.3
